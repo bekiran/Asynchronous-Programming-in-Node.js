@@ -1,0 +1,14 @@
+{
+  "name": "asyncawit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asyncSeries.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kiran b E",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.1.0"
+  }
+}
